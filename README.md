@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently ReactJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mansouri.amirali98@gmail.com
 
 <!---
 amiralimansouri1377/amiralimansouri1377 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
