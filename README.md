@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirali Mansorui
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently ReactJS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mansouri.amirali98@gmail.com
 
